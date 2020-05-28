@@ -1,5 +1,3 @@
-# pythonDataAnalysis
+# python
 
-python code for data analysis
-
-test repository for data analysis and machine learning
+python code workspace repository for testing, data analysis, machine learning, etc.
